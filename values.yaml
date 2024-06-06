@@ -1,0 +1,6 @@
+image:
+  repository: web-image
+  tag: latest
+
+service:
+  nodePort: 30080
