@@ -1,6 +1,6 @@
 image:
   repository: helloitsurdvq/web
-  tag: v1.1.16
+  tag: v1.1.17
 
 service:
   nodePort: 30080
